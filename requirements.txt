@@ -3,6 +3,4 @@ transformers
 requests
 Pillow
 google-generativeai
-newspaper3k
 beautifulsoup4
-lxml
