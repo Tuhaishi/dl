@@ -4,3 +4,4 @@ requests
 Pillow
 google-generativeai
 beautifulsoup4
+TensorFlow
