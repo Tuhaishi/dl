@@ -26,7 +26,7 @@ model = genai.GenerativeModel(
 )
 
 # Initialize image classifier
-image_classifier = pipeline("image-classification", model="google/vit-base-patch16-224")
+image_classifier = pipeline("image-classification", model="microsoft/resnet-50")
 
 # Scrape content and images dynamically
 def scrape_content_and_images(url):
