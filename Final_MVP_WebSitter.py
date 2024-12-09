@@ -5,7 +5,6 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import google.generativeai as genai
-from newspaper import Article
 from PIL import Image, ImageDraw
 from io import BytesIO
 from transformers import pipeline
